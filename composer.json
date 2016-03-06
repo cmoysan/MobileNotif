@@ -1,5 +1,5 @@
 {
-    "name": "linkvalue/mobile-notif",
+    "name": "cmoysan/mobile-notif",
     "description": "PHP library to send notifications to mobile devices.",
     "keywords": ["push notification", "mobile", "android", "ios", "notification", "push", "gcm", "apns"],
     "type": "library",
